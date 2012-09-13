@@ -156,7 +156,7 @@
   <project path="external/xmlwriter" name="platform/external/xmlwriter" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="external/yaffs2" name="AOKP/external_yaffs2" remote="gh" revision="ics" />
   <project path="external/zlib" name="AOKP/external_zlib" remote="gh" revision="ics" />
-  <project path="frameworks/base" name="AOKP/frameworks_base" remote="gh" revision="ics" />
+  <project path="frameworks/base" name="dmeadows013/frameworks_base" remote="gh" revision="ics" />
   <project path="frameworks/compile/libbcc" name="AOKP/android_frameworks_compile_libbcc" remote="gh" revision="ics" />
   <project path="frameworks/compile/linkloader" name="platform/frameworks/compile/linkloader" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="frameworks/compile/slang" name="CyanogenMod/android_frameworks_compile_slang" remote="gh" revision="ics" />
@@ -186,7 +186,7 @@
   <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="hardware/ti/wlan" name="AOKP/android_hardware_ti_wlan" remote="gh" revision="ics" />
   <project path="hardware/ti/wpan" name="AOKP/android_hardware_ti_wpan" remote="gh" revision="ics" />
-  <project path="kernel/htc/vigor" name="Chad0989/vigor_aosp_kernel" remote="gh" revision="ics" />
+  <project path="kernel/htc/vigor-3.0" name="Chad0989/vigor_aosp_kernel" remote="gh" revision="ics" />
   <project path="libcore" name="AOKP/libcore" remote="gh" revision="ics" />
   <project path="ndk" name="platform/ndk" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
