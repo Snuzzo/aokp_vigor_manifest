@@ -33,13 +33,19 @@
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"  />
   <project path="device/htc/vigor" name="Chad0989/device_htc_vigor" remote="gh" revision="ics" />
   <project path="device/htc/common" name="CyanogenMod/android_device_htc_common" remote="gh" revision="gingerbread" />
+  <project path="device/htc/msm7x30-common" name="AOKP/android_device_htc_msm7x30-common" remote="gh" revision="ics" />
   <project path="device/htc/msm8660-common" name="Chad0989/android_device_htc_msm8660-common" remote="gh" revision="ics" />
+  <project path="device/htc/msm8960-common" name="AOKP/android_device_htc_msm8960-common" remote="gh" revision="ics" />
+  <project path="device/lge/star-common" name="AOKP/android_device_lge_star-common" remote="gh" revision="ics" />
+  <project path="device/moto/common" name="device/moto/common" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
+  <project path="device/sample" name="device/sample" remote="aosp" revision="refs/tags/android-4.0.4_r1.2" />
+  <project path="docs/source.android.com" name="platform/docs/source.android.com" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="external/android-mock" name="platform/external/android-mock" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="external/antlr" name="platform/external/antlr" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="external/apache-harmony" name="platform/external/apache-harmony" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="external/apache-http" name="platform/external/apache-http"  remote="aosp" revision="refs/tags/android-4.0.4_r1.2" />
   <project path="external/apache-xml" name="platform/external/apache-xml"  remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
-  <project path="external/astl" name="CyanogenMod/android_external_astl" remote="gh" revision="ics" />
+  <project path="external/astl" name="platform/external/astl" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="external/bash" name="CyanogenMod/android_external_bash" remote="gh" revision="ics" />
   <project path="external/bison" name="platform/external/bison" remote="aosp" revision="refs/tags/android-4.0.4_r1.2" />
   <project path="external/blktrace" name="platform/external/blktrace" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
@@ -171,7 +177,7 @@
   <project path="hardware/alsa/sound" name="AOKP/hardware_alsa_sound" remote="gh" revision="ics" />
   <project path="hardware/atheros/wlan" name="CyanogenMod/android_hardware_atheros_wlan" remote="gh" revision="ics" />
   <project path="hardware/cm" name="AOKP/hardware_cm" remote="gh" revision="ics" />
-  <project path="hardware/broadcom/wlan" name="AOKP/android_hardware_broadcom_wlan" remote="gh" revision="ics" />
+  <project path="hardware/broadcom/wlan" name="Cyanogenmod/android_hardware_broadcom_wlan" remote="gh" revision="ics" />
   <project path="hardware/invensense" name="platform/hardware/invensense" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="hardware/libhardware" name="AOKP/android_hardware_libhardware" remote="gh" revision="ics" />
   <project path="hardware/libhardware_legacy" name="AOKP/android_hardware_libhardware_legacy" remote="gh" revision="ics" />
@@ -252,7 +258,6 @@
   <project path="system/media" name="AOKP/system_media" remote="gh" revision="ics" />
   <project path="system/netd" name="platform/system/netd" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="system/vold" name="AOKP/system_vold" remote="gh" revision="ics" />
-
   <project path="vendor/aokp" name="VigorAOKPROM/vendor_aokp" remote="gh" revision="ics" />
   <project path="vendor/htc/vigor" name="Chad0989/vendor_htc_vigor" remote="gh" revision="ics" />
   <project path="vendor/aokp/bot" name="AOKP/pseudo_buildbot" remote="gh" revision="ics" />
