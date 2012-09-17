@@ -155,7 +155,7 @@
   <project path="external/xmlwriter" name="platform/external/xmlwriter" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="external/yaffs2" name="AOKP/external_yaffs2" remote="gh" revision="ics" />
   <project path="external/zlib" name="AOKP/external_zlib" remote="gh" revision="ics" />
-  <project path="hardware/libhardware" name="AOKP/hardware_libhardware" remote="aokp" revision="master" />
+ 
   <project path="hardware/broadcom/wlan" name="CyanogenMod/android_hardware_broadcom_wlan" remote="gh" revision="ics" />
   <project path="hardware/atheros/wlan" name="CyanogenMod/android_hardware_atheros_wlan" remote="gh" revision="ics" />
   <project path="hardware/cm" name="AOKP/hardware_cm" remote="gh" revision="ics" />
