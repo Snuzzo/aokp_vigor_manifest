@@ -27,8 +27,8 @@
   <project path="cts" name="platform/cts" remote="aosp" revision="refs/tags/android-4.0.4_r1.2" />
   <project path="dalvik" name="AOKP/platform_dalvik" remote="gh" revision="ics" />
   <project path="development" name="AOKP/platform_development" remote="gh" revision="ics" />
-  <project path="device/htc/msm8660-common" name="Chad0989/android_device_htc_msm8660-common" />
-  <project path="device/htc/vigor" name="Chad0989/device_htc_vigor" />
+  <project path="device/htc/msm8660-common" name="Chad0989/android_device_htc_msm8660-common" remote="gh" revision="ics" />
+  <project path="device/htc/vigor" name="Chad0989/device_htc_vigor" remote="gh" revision="ics" />
   <project path="device/common" name="device/common" remote="aosp" revision="refs/tags/android-4.0.4_r1.2" />
   <project path="device/generic/goldfish" name="device/generic/goldfish" remote="aosp" revision="refs/tags/android-4.0.4_r1.2" />
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
