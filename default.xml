@@ -218,7 +218,7 @@
   <project path="packages/apps/AOKPtips" name="AOKP/packages_apps_AOKPtips" remote="gh" revision="ics"/>
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
-  <project path="packages/apps/Settings" name="Settings/packages_apps_Settings" remote="gh" revision="ics" />
+  <project path="packages/apps/Settings" name="Snuzzo/packages_apps_Settings" remote="gh" revision="ics" />
   <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="packages/apps/SpeechRecorder" name="platform/packages/apps/SpeechRecorder" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
