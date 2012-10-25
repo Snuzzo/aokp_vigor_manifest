@@ -257,7 +257,7 @@
   <project path="system/vold" name="AOKP/system_vold" remote="gh" revision="ics" />
   <project path="vendor/aokp" name="VigorAOKPROM/vendor_aokp" remote="gh" revision="ics" />
   <project path="vendor/htc" name="AOKP/vendor_htc" remote="gh" revision="ics" />
-  <project path="vendor/htc/vigor" name="Chad0989/vendor_htc_vigor" remote="gh" revision="ics" />
+  <project path="vendor/htc/vigor" name="Snuzzo/vendor_htc_vigor" remote="gh" revision="aokp-ics" />
   <project path="vendor/aokp/bot" name="AOKP/pseudo_buildbot" remote="gh" revision="ics" />
   <project path="vendor/qcom/opensource/omx/mm-core" name="AOKP/android_vendor_qcom_opensource_omx_mm-core" remote="gh" revision="ics" />
   <project path="vendor/qcom/opensource/omx/mm-video" name="AOKP/android_vendor_qcom_opensource_omx_mm-video" remote="gh" revision="ics" />
