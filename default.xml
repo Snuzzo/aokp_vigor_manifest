@@ -255,7 +255,7 @@
   <project path="system/media" name="AOKP/system_media" remote="gh" revision="ics" />
   <project path="system/netd" name="platform/system/netd" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="system/vold" name="AOKP/system_vold" remote="gh" revision="ics" />
-  <project path="vendor/aokp" name="VigorAOKPROM/vendor_aokp" remote="gh" revision="ics" />
+  <project path="vendor/aokp" name="Snuzzo/vendor_aokp" remote="gh" revision="ics" />
   <project path="vendor/htc" name="AOKP/vendor_htc" remote="gh" revision="ics" />
   <project path="vendor/htc/vigor" name="Snuzzo/vendor_htc_vigor" remote="gh" revision="aokp-ics" />
   <project path="vendor/aokp/bot" name="AOKP/pseudo_buildbot" remote="gh" revision="ics" />
