@@ -34,7 +34,7 @@
   <project path="device/htc/vigor" name="Snuzzo/device_htc_vigor" remote="gh" revision="aokp-ics" />
   <project path="device/htc/common" name="CyanogenMod/android_device_htc_common" remote="gh" revision="gingerbread" />
   <project path="device/htc/msm7x30-common" name="AOKP/android_device_htc_msm7x30-common" remote="gh" revision="ics" />
-  <project path="device/htc/msm8660-common" name="Chad0989/android_device_htc_msm8660-common" remote="gh" revision="ics" />
+  <project path="device/htc/msm8660-common" name="Snuzzo/android_device_htc_msm8660-common" remote="gh" revision="aokp-ics" />
   <project path="device/htc/msm8960-common" name="AOKP/android_device_htc_msm8960-common" remote="gh" revision="ics" />
   <project path="device/sample" name="device/sample" remote="aosp" revision="refs/tags/android-4.0.4_r1.2" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
