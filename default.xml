@@ -154,9 +154,9 @@
   <project path="external/webkit" name="AOKP/external_webkit" remote="gh" revision="ics" />
   <project path="external/webp" name="platform/external/webp" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="external/webrtc" name="platform/external/webrtc" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
-  <project path="external/wpa_supplicant" name="AOKP/external_wpa_supplicant" remote="gh" revision="ics" />
-  <project path="external/wpa_supplicant_6" name="AOKP/external_wpa_supplicant_6" remote="gh" revision="ics" />
-  <project path="external/wpa_supplicant_8" name="AOKP/external_wpa_supplicant_8" remote="gh" revision="ics" />
+  <project path="external/wpa_supplicant" name="CyanogenMod/android_external_wpa_supplicant" />
+  <project path="external/wpa_supplicant_6" name="CyanogenMod/android_external_wpa_supplicant_6" />
+  <project path="external/wpa_supplicant_8" name="CyanogenMod/android_external_wpa_supplicant_8" />
   <project path="external/xmlwriter" name="platform/external/xmlwriter" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="external/yaffs2" name="AOKP/external_yaffs2" remote="gh" revision="ics" />
   <project path="external/zlib" name="AOKP/external_zlib" remote="gh" revision="ics" />
